@@ -36,7 +36,7 @@ The workflow will run automatically and the downloaded files will appear in the 
 
 ---
 
-## 📝 Commands
+## 📝 Commands 
 
 ### Download files individually
 
